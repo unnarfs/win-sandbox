@@ -2,5 +2,5 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 choco feature enable -n=allowGlobalConfirmation
  
-choco install firefox
 choco install protonvpn
+choco install firefox
